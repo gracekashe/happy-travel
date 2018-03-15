@@ -1,0 +1,24 @@
+h1 {
+  color: red;
+  font-style: oblique;
+  text-align: center;
+  background-color: grey;
+}
+
+h2 {
+  color: black;
+  text-align: left;
+  background-color: grey;
+}
+
+h2.travel {
+  color: blue;
+}
+
+body {
+  background-image: url(../images/images (4).jpeg);
+}
+
+p {
+  background-color: grey;
+}
